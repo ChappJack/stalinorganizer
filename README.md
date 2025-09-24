@@ -3,7 +3,7 @@ An exceedingly useful tool that takes an image path and judges it based off of h
 # VERY VERY IMPORTANT!!!
 This project was a two hour coding adventure and should not be seriously implemented.<br><br>
 If an image is primarily red:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;It is spared and kept on the computer.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;It is spared and kept on the computer.<br><br>
 If it is not:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;It is deleted using os.remove().
 <br><br>
